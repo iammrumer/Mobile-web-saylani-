@@ -1,0 +1,127 @@
+.bgcolor{
+    background-color: #316DC3; !important
+}
+
+.btnbg{
+    background-color: white;
+    text-align: center ;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-content: center;
+}
+
+ul,ol,li{
+    list-style: none;
+    display: inline;
+}
+
+.inline{
+    display: inline;
+}
+    
+    li{
+        padding: 10px;
+    
+    }
+
+    .imageclass{
+        margin-left: 100px;
+    }
+
+
+.hover:hover{
+    background-color: #316DC3;
+    color: white; !important
+    text-decoration: none;
+    border-radius: 1em
+    }
+
+    
+
+a:hover{
+    text-decoration: none;
+}
+
+    .nob{
+        border: none;
+    }
+
+    .fc{
+        font-size: 15px;
+        color: gray;
+        font-weight: bold;
+        
+    }
+
+
+
+    .margin-left{
+        margin-left: 110px;
+    }
+
+
+    .padding{
+        padding: 8px 0px 8px 0px;
+    }
+
+
+    .bnoo{ border: none;}
+
+
+    .left2{
+        padding-left: 100px;
+        padding-right: 100px;}
+
+    .fc1{
+        background-color: #316DC3;
+        color: white; !important
+        text-decoration: none;
+        border-radius: 1em;
+        font-size: 15px;
+        font-weight: bold;
+        
+    }
+
+    .hcolor{
+        color: white;
+        text-decoration: bold;
+    }
+
+    
+.tdpadding{
+
+padding: 20px;
+}
+
+.div6{
+    width: 350px;
+    height:180px;
+    background-color: white ;
+    border: 0px solid grey;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.img6{
+    padding-top: 30px;
+    height: 90px;
+    width: 70px;
+}
+
+.inlineb{
+    display: inline-block;
+}
+
+
+.div7{
+    width: 330px;
+    height:80px;
+    background-color: whitesmoke ;
+    border: 0px solid grey;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding-left: 10px;
+}
